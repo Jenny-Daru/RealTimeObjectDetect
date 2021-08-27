@@ -1,0 +1,2 @@
+rootProject.name = "RealTimeObjectDetect"
+include ':app'
